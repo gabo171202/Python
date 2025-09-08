@@ -1,22 +1,27 @@
-#  Startup Success Analysis
+# Startup Success Analysis
 
-Este proyecto tiene como objetivo analizar los factores que influyen en el éxito o fracaso de startups utilizando **técnicas de análisis de datos y machine learning**.  
+This project aims to analyze the factors influencing the success or failure of startups using data analysis and machine learning techniques.
 
-## Objetivos
-- Identificar las variables más relevantes que determinan la probabilidad de éxito de una startup.  
-- Aplicar modelos de clasificación y evaluación de métricas de desempeño.  
-- Obtener insights accionables que puedan ser útiles para emprendedores e inversores.  
+## Objectives
 
-## Material utilizado
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- Jupyter Notebook  
+-Identify the most relevant variables that determine a startup’s likelihood of success.
 
-## Contenido
-- `Startup_Success_Analysis_Final.ipynb`: Notebook con el análisis completo, limpieza de datos, visualizaciones y modelado predictivo.  
+-Apply classification models and evaluate performance metrics.
 
-## Resultados
-El análisis permitió encontrar patrones clave asociados al éxito de startups, así como entrenar modelos de predicción para estimar sus probabilidades de éxito en función de diversas características.  
+-Generate actionable insights useful for entrepreneurs and investors.
 
----
+## Tools Used
 
-Este proyecto forma parte de mi portafolio en **Business Intelligence & Data Analytics**, mostrando habilidades en **data wrangling, visualización, y machine learning aplicado a negocios**.
+-Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+-Jupyter Notebook
+
+## Content
+
+-Startup_Success_Analysis_Final.ipynb: Notebook containing the full analysis, including data cleaning, visualizations, and predictive modeling.
+
+##Results
+
+The analysis revealed key patterns associated with startup success and trained predictive models to estimate the probability of success based on various characteristics.
+
+This project is part of my Business Intelligence & Data Analytics portfolio, **demonstrating skills in data wrangling, visualization, and business-focused machine learning.**
